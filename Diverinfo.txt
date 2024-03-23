@@ -10856,7 +10856,7 @@ diver_id,diver_name,city_state,gender_age
 11202,Peter Crane,,,
 11138,,,,
 11180,Terry Horner,Longwood FL,M,38
-11160,Frederick Fox,Meridian, ID,M,85
+11160,Frederick Fox,Meridian ID,M,85
 11263,Ryan Borup,,,
 11221,Ryan Jefferson,,,
 11125,William Eastman,,,
@@ -11495,7 +11495,7 @@ diver_id,diver_name,city_state,gender_age
 12278,Nathan Spring,,,
 12022,Julie Jefferis,,,
 12129,Annie Moyer,,,
-12059,Paul Holzma���,,,
+12059,Paul Holzma   ,,,
 12164,Michael Luebke,,,
 12267,,,,
 12261,Petar Prezgar,,,
@@ -14932,7 +14932,7 @@ diver_id,diver_name,city_state,gender_age
 15505,Valeria Reynoso Ochoa,,,
 15529,,,,
 15507,Fatima Joeline Garcia Rodriguez,,,
-15532,Adan Zu�iga,,,
+15532,Adan Zu iga,,,
 15509,Eliot Joel Cayo Rivera,,,
 15571,David Schcolnik Gamez,,,
 15564,Serafin Esquivel Hernandez,,,
@@ -16535,7 +16535,7 @@ diver_id,diver_name,city_state,gender_age
 17472,Hailey Casper,,,
 17400,Chris Waters,United States,N/A,
 17217,Enrique Federico Ybarra,,,
-17478,St�phane Lapointe,,,
+17478,St phane Lapointe,,,
 17462,Mariana Rendon Isaza,,,
 17215,Casey Redman,,,
 17198,Cesar Cuevas,,,
@@ -16636,7 +16636,7 @@ diver_id,diver_name,city_state,gender_age
 17227,Chris Bloese,,,
 17440,Diego Monsalve Acosta,,,
 17096,Martin Trepanier,,,
-17493,Fr�d�rique Lalonde,,,
+17493,Fr d rique Lalonde,,,
 17190,Elissa Dawson,,,
 17091,Kadin Andrews,,,
 17490,Riley McCormick,,,
@@ -19334,7 +19334,7 @@ diver_id,diver_name,city_state,gender_age
 19775,Taylor Ohlhauser,Keller TX,F,25
 19883,Charlye Campbell,Midland TX,F,25
 19700,,,,
-20010,M�lissa Citrini-Beaulieu,,,
+20010,M lissa Citrini-Beaulieu,,,
 20012,Nicolina Tokic,,,
 20011,Samantha Taylor,,,
 20016,Alejandra Davila,,,
@@ -22821,7 +22821,7 @@ diver_id,diver_name,city_state,gender_age
 23052,Ellie Britvich,,,
 23143,Jake Jones,,,
 23500,,,,
-23507,Danniela Zerme�o,Veracruz Veracruz,F,28
+23507,Danniela Zerme o,Veracruz Veracruz,F,28
 23534,Chuck Kusman,,,
 23502,Alayna Kelly,,,
 23547,,,,
@@ -33092,7 +33092,7 @@ diver_id,diver_name,city_state,gender_age
 33708,,,,
 33662,Nikki Stefanek,,,
 33736,Mauro Silva,,,
-33787,F�lix Leathead,,,
+33787,F lix Leathead,,,
 33743,Emily Schmidt,,,
 33664,,,,
 33717,Alex Pasillas,,,
@@ -38980,7 +38980,7 @@ diver_id,diver_name,city_state,gender_age
 39707,,,,
 39619,Sarah-Nicole Ackerman,,,
 39682,Angel Ramirez,,,
-39727,Ane Italia Aranzabal,M�xico D.F.,F,24
+39727,Ane Italia Aranzabal,M xico D.F.,F,24
 39743,Tae Hoon Kim,,,
 39675,Maggie Dryden,,,
 39676,Cristian Rivas Mayen,,,
@@ -39052,7 +39052,7 @@ diver_id,diver_name,city_state,gender_age
 39751,Ricardo Troyo,,,
 39795,Osmar Olvera Ibarra,,,
 39869,Cameron Harrison,,,
-39791,Alexandra Avi�a,,,
+39791,Alexandra Avi a,,,
 39856,Drew Soffer,,,
 39804,Mirna Praxedis,,,
 39687,Charles Clifton,Nashville TN,M,26
@@ -39078,7 +39078,7 @@ diver_id,diver_name,city_state,gender_age
 39749,Mary Hanks,,,
 39715,Cassidy Sax,,,
 39832,Aidan Olson,,,
-39805,Bryan Santiesteban Rame�o,,,
+39805,Bryan Santiesteban Rame o,,,
 39836,Wyatt Wellehan,Winnetka IL,M,18
 39776,Alistair Frost,Indianapolis IN,M,
 39876,Anya Weber,Bloomington IL,F,21
