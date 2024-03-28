@@ -1,4 +1,4 @@
-diver_id,diver_name,city_state,gender_age
+diver_id,diver_name,city_state,gender,age
 502,,,,
 525,,,,
 526,,,,
