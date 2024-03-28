@@ -1,4 +1,4 @@
-diver_id,diver_number,height,ave_score,high_score,times_competed
+diver_id,dive_number, dive_number,height,ave_score,high_score,times_competed
 10053,001A,001A,3M,17.67,21.50,6
 10053,001B,001B,3M,15.83,16.50,3
 10053,002A,002A,3M,21.71,31.35,4
