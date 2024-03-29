@@ -39106,7 +39106,6 @@ diver_id,diver_name,city_state,gender,age
 40183,Cameron Robertson,,,
 40008,Keith Cole,,,
 40011,,,,
-40342,Lilia De Oliveira Peláez,,,
 40385,Gloria Ho,,,
 40361,Sara Parker,,,
 40043,Connor Nielson,,,
@@ -40377,7 +40376,6 @@ diver_id,diver_name,city_state,gender,age
 41178,Julia Atayan,,,
 41196,Maya Schumann,Davis Ca,F,19
 41480,,,,
-41150,Carmen Reyes Hernández,,,
 41210,Caleb Conder,,,
 41477,Jackson Taylor,,,
 41294,,,,
@@ -40592,7 +40590,6 @@ diver_id,diver_name,city_state,gender,age
 41518,Carlos Moreno_arellano,,,
 41519,Laura. Sanchez. Soto.,,,
 41514,Jahir Ocampo,,,
-41526,Kevin Chávez,,,
 41540,Jeremiah Brackenbury,,,
 41539,Ryan Thompson,,,
 41508,Sadie Schoenrock,,,
@@ -40616,7 +40613,6 @@ diver_id,diver_name,city_state,gender,age
 41622,Rachel Bratz,,,
 41537,Ashlee Estes,,,
 41660,Chloe Williams,,,
-41527,Tonantzin Fernández,,,
 41595,,,,
 41560,Ron Miller,,,
 41635,Sophia Stonebrook,,,
@@ -41042,7 +41038,6 @@ diver_id,diver_name,city_state,gender,age
 41558,Eli Brinkman,,,
 41929,Wesley Collins,,,
 41534,Henry Bunarek,,,
-41524,Arantxa Chávez,,,
 41567,Maggie Guziel,,,
 41826,David Kirkland,,,
 41577,Kayden Bentley,,,
@@ -41388,7 +41383,6 @@ diver_id,diver_name,city_state,gender,age
 42002,Meredith Wells,,,
 42323,Maya Calderon,,,
 42173,Austin George,Morgantown PA,M,20
-42281,Dolores Hernández  Monzón,,,
 42123,Clare Malhotra,,,
 42129,Carys Modlin,,,
 42266,Jessica Figueiredo,,,
@@ -41651,7 +41645,6 @@ diver_id,diver_name,city_state,gender,age
 42844,Brian Loeffler,Baltimore Md,M,
 42826,Katie Longto,,,
 42848,Nate Pribil,,,
-42813,Mitchell Sánchez Enrriquez,,,
 42937,Brooklyn Hanania,Phoenix AZ,F,17
 42805,Erin Littlepage,,,
 42896,Rebecca Ramsey,,,
@@ -42730,7 +42723,6 @@ diver_id,diver_name,city_state,gender,age
 43569,,,,
 43865,Meghan Cloninger,,,
 43872,Greg Lords,,,
-43979,Arturo Montes González,,,
 43846,Alexis Schmid,,,
 43628,Dara	 Reyblat,Sherman Oaks CA,F,20
 43976,Kylie Acoba,,,
@@ -42769,7 +42761,6 @@ diver_id,diver_name,city_state,gender,age
 43601,Danielle LeClerc,,,
 43880,,,,
 43811,Natalie Mammolito,,,
-43929,Alejandra Deyanira Reyes Alcázar,,,
 43902,Jimmy Mcmahon,,,
 43519,,,,
 43895,Cassidy Breuer,,,
@@ -42848,7 +42839,6 @@ diver_id,diver_name,city_state,gender,age
 43688,Ilah Little,,,
 43705,Patrick Cronin,,,
 43956,Krystopher Douglas,,,
-43993,Ana Rodriguez Márquez,,,
 43995,Alfredo Cortes Rosario,,,
 43897,Jada Shorter,Conroe TX,F,21
 43959,Alana Foodman,Redding CT,F,22
@@ -42957,7 +42947,6 @@ diver_id,diver_name,city_state,gender,age
 43501,Margaret Thompson,,,
 43762,Wenoah Winfrey,Denton Tx,F,21
 43502,Croldy Veliz,,,
-43989,Adrian Alejandro Santillán,,,
 43828,Kenia Ochoa Mendoza,,,
 43786,Grace Klimek,,,
 43721,Cooper Wade,,,
@@ -43088,7 +43077,6 @@ diver_id,diver_name,city_state,gender,age
 44037,Christopher Keating,,,
 44029,Will Valentine,,,
 44024,Hadley Beach,,,
-44063,Adrian Avilán Sosa,,,
 44057,Ivan Gonzalez Lopez,,,
 44018,Matthew Gallo,,,
 44070,Cara Brown,,,
@@ -43278,7 +43266,6 @@ diver_id,diver_name,city_state,gender,age
 44076,Daniela P Peña Ramirez,,,
 44081,Corinne Ramirez Ochoa,,,
 44346,Alexis Rectenwald,,,
-44138,Paulina Quiroz Sánchez,,,
 44119,Holden Syllaba,,,
 44417,,,,
 44366,Elaina Mcgovern,,,
@@ -43291,7 +43278,6 @@ diver_id,diver_name,city_state,gender,age
 44134,Emma Cuminato,,,
 44113,Matthew Chau,,,
 44131,,,,
-44150,Estefanía Arámbula,,,
 44105,Megan Montalbano,,,
 44137,Alejandra Aguilar Tovar,,,
 44166,Aspen Rojo De Pablo,,,
@@ -43312,7 +43298,6 @@ diver_id,diver_name,city_state,gender,age
 44372,Gabriel Ladino,,,
 44480,Jordan Castaneda,,,
 44368,Raynee Ludeke,,,
-44154,Valeria Páramo,,,
 44161,Carolina Sanchez Cruz,,,
 44396,Cecilia Cobb,Richmond KY,F,21
 44378,Maximillian Betzer,,,
@@ -43331,7 +43316,6 @@ diver_id,diver_name,city_state,gender,age
 44411,Jacob Brehmer,,,
 44452,Willow Foster,,,
 44409,Alyssa McKenzie,,,
-44157,Frida Z Guzmán,,,
 44431,,,,
 44490,Hao Yang,,,
 44272,Chase Jones,,,
@@ -43410,7 +43394,6 @@ diver_id,diver_name,city_state,gender,age
 44036,Niles Ackerman,,,
 44086,Ana Garcia,,,
 44407,Scott Teeters,,,
-44193,Alejandro Vázquez De Alba,,,
 44132,Garrin Crocker,,,
 44099,Estephani Rodriguez A,,,
 44126,Ryan Wood,,,
@@ -43421,7 +43404,6 @@ diver_id,diver_name,city_state,gender,age
 44142,Alyn Rivera Abreu,,,
 44464,,,,
 44092,Valeria Leal Lucio,,,
-44120,Naydelin Figueroa Hernández,,,
 44124,Ian Schedler,,,
 44153,Marina Vranos,,,
 44152,Hugo Santiago,,,
@@ -43445,7 +43427,6 @@ diver_id,diver_name,city_state,gender,age
 44088,Victoria Cervantes Millan,,,
 44052,,,,
 44211,María Macías,,,
-44207,Sebastián Camacho Gonzále,,,
 44443,Petukhova Ekaterina,,,
 44180,Ronaldo Garcia Ortiz,,,
 44236,Avery Spitz,,,
@@ -43477,7 +43458,6 @@ diver_id,diver_name,city_state,gender,age
 44091,Danna Saenz,,,
 44204,Maria Martinez Gomez,,,
 44254,Meg Zets,,,
-44114,Amilcar Ruíz  Hernández,,,
 44058,Abraham Bermeo G.,,,
 44277,Kendall Coleman,,,
 44067,,,,
@@ -43492,7 +43472,6 @@ diver_id,diver_name,city_state,gender,age
 44263,,,,
 44250,Itzel Serrano ochoa,,,
 44080,Melissa Mirafuentes,Guadalupe Nuevo Leon,F,21
-44215,Pablo Esau Nicolás,,,
 44032,Lindsay Ruoff,Cooper City fl,F,18
 44216,Marcos Alam Carranza Del Pilar,,,
 44188,Evan Lecy,,,
@@ -44724,7 +44703,6 @@ diver_id,diver_name,city_state,gender,age
 45840,Macie Milam,,,
 45919,Graham Miller,Columbia SC,M,56
 45656,Abigail Villenauve,,,
-45932,María José Juárez,,,
 45924,,,,
 45964,Carly Martin,,,
 45937,Isabella Cruz Medellin,,,
@@ -44811,7 +44789,6 @@ diver_id,diver_name,city_state,gender,age
 45600,Alyssa Gonnella,,,
 45821,Mara Eichele,,,
 45843,Hunter Cobia,,,
-45936,Alan Alejandro Guzmán Báez,,,
 45947,Luis Huerta,,,
 45941,Elian Faz Garcia,,,
 45852,Isabella Perez,Glendora Ca,F,23
@@ -47147,7 +47124,6 @@ diver_id,diver_name,city_state,gender,age
 48294,,,,
 48051,Keely Ferguson,,,
 48117,,,,
-48342,Brenda Sánchez Cruz,,,
 48369,Ramses Castañeda Luna,,,
 48058,Kerry Ghanie,,,
 48100,Kathryn Connolly,,,
@@ -47197,7 +47173,6 @@ diver_id,diver_name,city_state,gender,age
 48404,Victoria Crowley,,,
 48331,Valeria Leal,,,
 48354,Mateo López Suares,,,
-48355,Leonardo Sánchez Mendoza,,,
 48352,Mayahuel Valbuena,,,
 48381,,,,
 48426,Peri Riegner,,,
@@ -47449,7 +47424,6 @@ diver_id,diver_name,city_state,gender,age
 48284,Ana Vergara Cleto,,,
 48060,Savannah Neddo,,,
 48034,,,,
-48316,Fatima Hernández Mendoza,,,
 48282,,,,
 48268,Danire Burgos Negron,,,
 48082,Cameron Achuela,,,
@@ -47458,7 +47432,6 @@ diver_id,diver_name,city_state,gender,age
 48062,Brant Knoblauch,,,
 48296,Eder Alegria Verdugo,,,
 48292,Angela Martinez,,,
-48280,Jorge Pacheco Hernández,,,
 48273,Tania Cuevas Martinez,,,
 48286,Ángel Jasso,,,
 48281,Alejandra Medrano Martínez.,,,
@@ -47526,7 +47499,6 @@ diver_id,diver_name,city_state,gender,age
 48063,Ayman El Haddad,,,
 48302,Aynara Anderica Ramirez,,,
 48285,Diego Islas Castro,,,
-48251,Elián Faz,,,
 48263,Rodrigo Rivera,,,
 48250,,,,
 48083,Rey' Sonomura,,,
@@ -50273,7 +50245,6 @@ diver_id,diver_name,city_state,gender,age
 51128,Kaleigh Hamilton,,,
 51459,Jialing Liu,,,
 51072,Theodora Dinisoe,,,
-51441,Eván Wester,,,
 51157,Mytia Mcalary,,,
 51446,Chengcheng Cai,,,
 51437,Cole Baugh,,,
@@ -50336,7 +50307,6 @@ diver_id,diver_name,city_state,gender,age
 51152,Daphne Kirschner,,,
 51138,,,,
 51162,Emma Frayer,,,
-51134,Heloá Camelo,,,
 51100,Hanos Mahari,St. Michael MN,M,
 51497,Zachory Lundgren,Chandler AZ,M,21
 51082,Devon Copeland,Lamesa TX,M,
@@ -52918,7 +52888,6 @@ diver_id,diver_name,city_state,gender,age
 53898,Kaitlyn Lee,,,
 53878,Ian Schurr,,,
 53896,Casey Pepe,Hermosa Beach CA,M,54
-53908,Mercedes Fernández,,,
 53894,Emily Sanchez,,,
 53891,Ethan Renager,,,
 53887,Molly Estes,,,
@@ -59553,7 +59522,6 @@ diver_id,diver_name,city_state,gender,age
 60527,Ayda Madani,,,
 60542,Kelvin Henderson,,,
 60526,Maddison Woodworth,,,
-60553,Héctor García Sánchez,,,
 60571,Drew Minkin,,,
 60519,Sebastian Vazquez,,,
 60522,Jonathan Sayler,,,
@@ -61649,7 +61617,6 @@ diver_id,diver_name,city_state,gender,age
 62504,Bailey Ash,,,
 62978,Zigan Huang,,,
 62878,Sebastian Wichgers,,,
-62923,Cáit Mcneill,,,
 62962,Rachel Bacon,,,
 62992,Martina Klecka,Bellingham WA,F,20
 62514,Elise Knoche,Whitewater WI,F,
@@ -61667,7 +61634,6 @@ diver_id,diver_name,city_state,gender,age
 62899,Curt Liljedahl,United States,N/A,
 62911,Drew Wilson,,,
 62871,Barrett Feagin,Atlanta GA,M,19
-62887,Christian Hernández,El Paso TX,M,24
 62919,Lauren Wetzel,,,
 62984,Ronald Fila,,,
 62897,Campbell Kolk,United States,23,24
@@ -66933,7 +66899,6 @@ diver_id,diver_name,city_state,gender,age
 67501,Amelie Horne,,,
 67640,Ava Schmid,,,
 67620,Ian Ware,,,
-67621,Lucas Vázquez,,,
 67608,Coral Tucker,,,
 67629,Megan Bouthillier,,,
 67639,Ana Jerome,,,
@@ -73106,7 +73071,6 @@ diver_id,diver_name,city_state,gender,age
 74167,Gavin Swope,lees summit mo,M,18
 74151,Anthony Orrick,Leawood Ks,M,19
 74251,Lucy Child,Rocklin CA,F,16
-74441,Gabriel Vázquez Cio,Tonala Jalisco,M,16
 74171,Gavin Ballinger,Kansas City  MO,M,18
 74086,Lucy Chapman,,F,12
 74125,Kate Robbins,Victoria MN,F,20
@@ -73219,7 +73183,6 @@ diver_id,diver_name,city_state,gender,age
 74280,Thomas De Brito,,M,9
 74265,Mary-kate Eirich,,F,12
 74498,Kurt Sales,,M,13
-74383,Ruth Elisa Páez,,F,14
 74423,Emerson Rust,,F,10
 74267,Kinley Durham,,F,9
 74285,Kali Dasher,Buford GA,F,
@@ -73273,7 +73236,6 @@ diver_id,diver_name,city_state,gender,age
 74488,Sonya Palkhivala,Pointe-Claire  QC,F,19
 74262,Avianna Palone,West Sacramento  CA,F,16
 74288,Zeming Lu,,M,10
-74470,Kelly Mejorada Hernández,Guadalajara Jalisco,F,16
 74218,Tori Webber,Mexico MO,F,
 74332,Ella Guo,,F,12
 74230,Nolan Travers,Ballwin MO,M,18
@@ -73533,7 +73495,6 @@ diver_id,diver_name,city_state,gender,age
 74672,Rachel Marcus,Easton PA,F,20
 74613,Damara Bond,Pasadena MD,F,
 74693,Emerson Noriega,,F,10
-74575,Juan Pulido,Bogotá cundinamarca,M,49
 74651,Sophia Hahn,Lake Forest CA,F,16
 74578,Evelyna Johnson,Ann Arbor MI,F,21
 74618,David Goodwin,Omaha NE,M,22
