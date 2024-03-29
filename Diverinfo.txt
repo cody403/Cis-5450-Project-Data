@@ -48596,7 +48596,6 @@ diver_id,diver_name,city_state,gender,age
 49534,Emily Fortine,,,
 49545,,,,
 49559,Luca Carparelli,,,
-49576,Ully Cristina Villaça,,,
 49536,Jackson Rondinelli,São Paulo São Paulo,M,29
 49540,Luca Fassi,Altadena CA,M,18
 49553,Raiane Silva,,,
@@ -48615,7 +48614,6 @@ diver_id,diver_name,city_state,gender,age
 49635,,,,
 49615,Victoria Quigley,,,
 49656,Sara Abercrombie,,,
-49588,Osvaldo Conceiçãao,,,
 49617,Joseph Miller,,,
 49628,Leo Carparelli,,,
 49679,,,,
@@ -49022,7 +49020,6 @@ diver_id,diver_name,city_state,gender,age
 49508,Cesar Munoz,Brentwood CA,M,
 49584,,,,
 49570,Edmundo Vergara,,,
-49572,Tales Lourenço,,,
 49861,Veronica Salrin,,,
 49544,Pietro Toscani,,,
 49573,Bruna Brunnett,,,
@@ -49035,7 +49032,6 @@ diver_id,diver_name,city_state,gender,age
 49580,Joelle Carbonell-bierbaum,,,
 49633,,,,
 49898,Maya Murray,,,
-49586,Marcus Lourenço,,,
 49589,Patricia Pires,,,
 49935,,,,
 49980,Matthew Bielobradek,Lombard IL,M,23
@@ -50127,7 +50123,6 @@ diver_id,diver_name,city_state,gender,age
 51353,Brock Howze,,,
 51394,Hannah Breen,,,
 51331,Ethan Santiago,,,
-51376,Ully VillaÇa,,,
 51361,,,,
 51042,Scott Rosenberg,,,
 51385,Caroline Alonzo,Spring TX,F,22
